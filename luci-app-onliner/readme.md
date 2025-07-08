@@ -1,3 +1,5 @@
+### 本项目克隆了 bigbugcc 的luci-app-onliner 对未完成汉化部分进行了汉化 ###
+### bigbugcc 仓库地址 https://github.com/bigbugcc/OpenwrtApp ###
 ### 通过arp实现的在线人员查看的luci界面，统计误差为arp老化时间 ###
 ### 通过nlbwmon实现的实时网速查看每两秒更新 需要luci-app-nlbwmon ###
 
