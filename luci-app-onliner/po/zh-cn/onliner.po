@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Online User"
+msgstr "在线用户"
+
+msgid "Speed"
+msgstr "监视器"
